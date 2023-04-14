@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="/register" method="post">
+        <label for="username">名稱：</label>
+        <input type="text" id="username" name="username" placeholder="liu foo" required >
+        <br>
+        <labal for="password">密碼：</label>
+        <input type="password" id="password" name="password" placeholder="請輸入密碼" required> 
+    
+        <br><br><p style="color: brown; border: 1px solid red;display: inline;">性別：</p><br>
+        <input type="radio" id="female" name="gender" value="0"/>
+        <label for="female">女性</label><br>
+        <input type="radio" id="male" name="gender" value="1"/>
+        <label for="male">男性</label><br>
+        <input type="radio" id="secret" name="gender" value="2"/>
+        <label for="secret">不願透露</label><br><br>
+    
+        <p style="color: brown; border: 1px solid red;display: inline;">貓派還是狗派？</p><br>
+        <input type="checkbox" id="banana" name="fruits" value="香蕉"/>
+        <label for="banana">貓</label><br>
+        <input type="checkbox" id="grava" name="fruits" value="芭樂"/>
+        <label for="grava">狗</label><br><br>
+    
+        <label for="choice" style="color: brown; border: 1px solid red;display: inline;">想擁有的超能力</label>
+        <br><br>
+        <input list="choice-1" id="choice" name="choice" />
+        <datalist id="choice-1"  size="5" >
+            <option value="1" selected> 隱身 </option>
+            <option value="2"> 穿透 </option>
+            <option value="3"> 飛行 </option>
+            <option value="4"> 讀心 </option>
+            <option value="5"> 遁地 </option>
+            <option value="6"> 變形 </option>
+            <option value="7">  </option>
+            <option value="8"> Ruby </option>
+        </datalist><br><br>
+    
+        <label for="message" >有什麼話想說嗎？</label><br>
+      <textarea name="message" id="message" cols="30" rows="10" readonly></textarea>
+
+      <br><input type="submit">
+    </form>
+
+</body>
+</html>
