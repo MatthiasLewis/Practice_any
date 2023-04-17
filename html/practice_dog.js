@@ -22,7 +22,7 @@ function dogtype(){
         let elTr=document.createElement("div");
         elTr.innerHTML = `
             <img src=${dogarray[i].picture}>
-            <h3>'The dog is '${dogarray[i].name}</h3>
+            <h3>'The dog is ${dogarray[i].name}</h3>
             `
         document.querySelector("#click_1").append(elTr);
     i++; 
