@@ -17,14 +17,13 @@ let dogarray = [
     }
 ];
 
-var n=0;
+var i=0;
 function dogtype(){
-    for (n in dogarray){
-        let elTr=document.getElementById("click_1");
+        let elTr=document.createElement("div");
         elTr.innerHTML = `
-            <img src=${dogarray[n].picture}>;
-            <h3>'The dog is '${dogarray[n].name}</h3>
+            <img src=${dogarray[i].picture}>
+            <h3>'The dog is '${dogarray[i].name}</h3>
             `
-    }
-  n++ ;
+        document.querySelector("#click_1").append(elTr);
+    i++; 
 }  
