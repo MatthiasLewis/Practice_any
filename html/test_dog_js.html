@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="test_dog.js"></script>
+    <link rel="stylesheet" type="text/css" href="test_dog.css">
+    <title>Document</title>
+</head>
+<body>
+    
+    <form>
+        <label for="dog_breed">選擇想看的狗狗品種：</label>
+        <select onchange="getdogpicture()" id="dog_breed">
+            <option value="akita">akita</option>
+            <option value="basenji">basenji</option>
+            <option value="beagle">beagle</option>
+            <option value="coonhound">coonhound</option>
+            <option value="dachshund">dachshund</option>
+        </select>
+    </form>    
+    <div id="show_picture"></div>
+
+</body>
+</html>
