@@ -1,55 +1,64 @@
 import pymysql
 
-def connectsql(datab_name=None):
-    if datab_name == None:
-        db = pymysql.connect(host="localhost",
-                             user="admin1",
-                             password="123456"
+def connectsql(db_name=None,host="localhost",user="admin1",password="123456"):
+    if db_name != None:
+        db = pymysql.connect(host=f"{host}",
+                             user=f"{user}",
+                             password=f"{password}",
+                             database=f"{db_name}")
+        cursor = db.cursor()
+        cursor.execute("show databases like %s",db_name)
+        result = cursor.fetchone()
+        while result is None:
+            db.close()
+            return
+        return db
+    elif db_name == None:
+        db = pymysql.connect(host=f"{host}",
+                             user=f"{user}",
+                             password=f"{password}"
                              )
         cursor = db.cursor()
-    cursor.execute("show databases like 'ettoday'")
-    result = cursor.fetchone()
-    else:
-        db = pymysql.connect(host="localhost",
-                             user="admin1",
-                             password="123456",
-                             database=datab_name)
-    return db
+        return db
 
-def createdatabase(datab_name,db):
-    n1 = str(datab_name)
-    cursor = db.cursor()
-    cursor.execute(f"show databases like {n1}")
+def createdatabase(name,fun1):
+    cursor = fun1.cursor()
+    cursor.execute("show databases like %s",name)
     result = cursor.fetchone()
     if result is None:
-        cursor.execute(f"create database {n1}")
+        cursor.execute(f"create database {name}")
     else:
-        ans = input(f"名稱重複，即將刪除原本的{n1},是否繼續(Y/n)：")
+        ans = input(f"名稱重複，即將刪除原本的{name},是否繼續(Y/n)：")
         if ans == "n" :
             return
-        cursor.execute(f"drop database {n1}")
-        cursor.execute(f"create database {n1}")
+        elif ans == "Y":
+            cursor.execute(f"drop database {name}")
+            cursor.execute(f"create database {name}")
 
-def createtable(table_name,db,avg_all_title):
-    cursor = db.cursor()
-    create_t = f"create table {table_name} "+str(avg_all_title)
+def createtable(name,fun1,arg):
+    cursor = fun1.cursor()
+    create_t = f"create table {name} "
+    table_set = tuple(arg)
+    create_t = create_t + f"{table_set}".replace("'","")
     cursor.execute(create_t)
-    db.commit()
+    fun1.commit()
+    return name
     
-def inserttable(title,content,db):
-    cursor = db.cursor()
-    insert_table = "insert into news  values (%s,%s)"
-    a = content[:254]
-    table_value = (str(title),str(a))
-    cursor.execute(insert_table,table_value)
-    db.commit()
+def inserttable(name,fun1,arg):
+    cursor = fun1.cursor()
+    insert_table = "insert into news values "
+    tuple_table = tuple(arg)
+    insert_table = insert_table + f"{tuple_table}"
+    cursor.execute(insert_table)
+    fun1.commit()
 
-def close(db):
-    db.close()
+def close(fun1):
+    fun1.close()
 
-def output(cur):
-    cur.execute("select * from news")
-    result = cur.fetchall()
+def output(name,fun1):
+    cursor = fun1.cursor()
+    cursor.execute(f"select * from {name}")
+    result = cursor.fetchall()
     for i in result:
         print(i)
 
