@@ -1,0 +1,3 @@
+{"token": "User already exist"}
+{"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjgyMzM1NDc5LCJpYXQiOjE2ODIzMTc0NzksImp0aSI6IjZhNjgzNGE0MTU3NjQzOTc5NmFmYWFiMGFkNDI4MDhlIiwidXNlcl9pZCI6OTF9.O-HMkXeA9tbkusv-SOwOxsD60HnSaMwT8C_jRSQAzlk", "username": "iii"}
+{"level": "INFO", "message": "https://yillkid.github.io/ntc-python-crawler-workshop-frontent/signin.html 29:20 \"Get JWT from cookie eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjgyMzM0MzI1LCJpYXQiOjE2ODIzMTYzMjUsImp0aSI6IjhhNDcwYjNhMzIxNTQwMTNiMWY3ZjExZjA0ZTk4MDExIiwidXNlcl9pZCI6MTA3fQ.K3Bw_EYILpvFLrISKfciqGjMmDYoJnoz3Bw89WwF3gQ\"", "source": "console-api", "timestamp": 1682316326128}
