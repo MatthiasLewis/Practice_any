@@ -1,0 +1,39 @@
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
+import time
+import json
+
+#適用於QA的模組，即：穫取googlelog資訊，指定資訊為使用者的所有瀏覽器log資訊
+d = DesiredCapabilities.CHROME
+d['goog:loggingPrefs'] = {u'browser':'ALL'}
+
+options = webdriver.ChromeOptions()
+options.add_argument("incognito")
+
+driver = webdriver.Chrome()
+
+driver.get("https://yillkid.github.io/ntc-python-crawler-workshop-frontent/signup.html")
+
+driver.find_element(By.ID, "email").send_keys("159852rrr@gmail.com")
+driver.find_element(By.ID, "username").send_keys("hhhhhh")
+driver.find_element(By.ID, "password").send_keys("fff1519844")
+driver.find_element(By.ID, "cfm_password").send_keys("fff1519844")
+driver.find_element(By.TAG_NAME, "button").click()
+
+time.sleep(3)
+
+driver.get("https://yillkid.github.io/ntc-python-crawler-workshop-frontent/signin.html")
+driver.find_element(By.ID, "email").send_keys("159852rrr@gmail.com")
+driver.find_element(By.ID, "password").send_keys("fff1519844")
+driver.find_element(By.TAG_NAME, "button").click()
+
+time.sleep(2)
+
+for i in driver.get_log('browser'):
+    if ("JWT" in i["message"]):
+        print(i)
+        with open("JWT_token.log","a") as f:
+            json.dump(i,f)
+
