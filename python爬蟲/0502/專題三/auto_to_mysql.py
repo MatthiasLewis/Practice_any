@@ -1,6 +1,6 @@
 import pymysql
 
-def connectsql(db_name=None,host="localhost",user="admin1",password="123456"):
+def connectsql(db_name=None,host="localhost",user="???",password="???"):
     if db_name != None:
         db = pymysql.connect(host=f"{host}",
                              user=f"{user}",
