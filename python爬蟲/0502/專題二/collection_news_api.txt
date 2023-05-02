@@ -1,0 +1,322 @@
+{
+    "_id" : ObjectId("64510e4da628c124c8b1341f"),
+    "source" : {
+        "id" : null,
+        "name" : "Yahoo Entertainment"
+    },
+    "author" : "生活中心／綜合報導",
+    "title" : "上週平均每日新增99例新冠中重症　台首見2例「大角星」變異種本土個案",
+    "description" : "因應新型冠狀病毒（或稱COVID-19、武漢肺炎）病毒流感化、目前全球處置新冠疫情、解除疫情管制的趨勢，中央流行疫情指揮中心已宣布，新冠將於5月1日起，由第五類法定傳染病降為第四類，指揮中心也自5月1日起解編。至於口罩政策，則由民眾自主決定配戴口罩，僅限醫療照護機構、救護車上仍要全程戴口罩。今（27）日指揮中心召開解編前最後一場新冠疫情記者會，不僅上週平均每日新增99例新冠中重症，也證實台灣首度驗出2例Omicron變異株XBB.1.16（俗稱「大角星」）的本土個案，皆為輕症個案。指揮中心今（27）日公布國內自3…",
+    "url" : "https://tw.news.yahoo.com/%E4%B8%8A%E9%80%B1%E5%B9%B3%E5%9D%87%E6%AF%8F%E6%97%A5%E6%96%B0%E5%A2%9E99%E4%BE%8B%E6%96%B0%E5%86%A0%E4%B8%AD%E9%87%8D%E7%97%87-%E5%8F%B0%E9%A6%96%E8%A6%8B2%E4%BE%8B-%E5%A4%A7%E8%A7%92%E6%98%9F-%E8%AE%8A%E7%95%B0%E7%A8%AE%E6%9C%AC%E5%9C%9F%E5%80%8B%E6%A1%88-071230951.html",
+    "urlToImage" : "https://media.zenfs.com/ko/taiwanhot.net.tw/67dbd762d2b2bf1c2d08ff945bd887b9",
+    "publishedAt" : "2023-04-26T23:12:30Z",
+    "content" : "COVID-19515127992OmicronXBB.1.16\r\n273/204/21-4/2799COVID-194/14-4/2093134/14-4/2013987439460\r\n151Omicron 107 67BA.2.7526XBB18XBB.1.56XBB.1.92XBB.1.168BQ.16BA.54437XBB23XBB.1.55XBB.1.96XBB.1.164BA.2.7… [+185 chars]"
+}
+{
+    "_id" : ObjectId("64510e4da628c124c8b13420"),
+    "source" : {
+        "id" : null,
+        "name" : "Yahoo Entertainment"
+    },
+    "author" : "生活中心／綜合報導",
+    "title" : "腸病毒疫情上週高於近6年同期　羅一鈞：估5月進入流行期",
+    "description" : "近3年多受新型冠狀病毒（或稱COVID-19、武漢肺炎）疫情防治影響，國內腸病毒疫情本較平靜，但隨防疫措施大幅鬆綁、免疫負債等影響，近期腸病毒疫情又再起。衛福部疾病管制署今（26）日宣布，國內上週新增2例幼童腸病毒71型輕症病例。疾管署副署長兼發言人羅一鈞表示，預估5月會進入腸病毒流行期，6月恐達高峰。暑假是腸病毒疫情高峰，呼籲家長留意小朋友洗手習慣，避免疫情擴展。疾管署提醒民眾返家或進食前皆須確實以「濕、搓、沖、捧、擦」5步驟正確洗手，及生病在家休息等良好衛生觀念，以降低病毒於校園或社區中傳播的風險。疾管署表示…",
+    "url" : "https://tw.news.yahoo.com/%E8%85%B8%E7%97%85%E6%AF%92%E7%96%AB%E6%83%85%E4%B8%8A%E9%80%B1%E9%AB%98%E6%96%BC%E8%BF%916%E5%B9%B4%E5%90%8C%E6%9C%9F-%E7%BE%85-%E9%88%9E-%E4%BC%B05%E6%9C%88%E9%80%B2%E5%85%A5%E6%B5%81%E8%A1%8C%E6%9C%9F-123000931.html",
+    "urlToImage" : "https://media.zenfs.com/ko/taiwanhot.net.tw/d207a7a6becd5b42a451d565d798fd28",
+    "publishedAt" : "2023-04-26T04:30:00Z",
+    "content" : "3COVID-1926271565\r\n2711420237172D68A6\r\n20234164227,8515,47043.56A71D68\r\n5https://www.cdc.gov.tw/19220800-001922\r\n6 5"
+}
+{
+    "_id" : ObjectId("64510e4da628c124c8b13421"),
+    "source" : {
+        "id" : null,
+        "name" : "Metamuse.net"
+    },
+    "author" : "Unknown",
+    "title" : "歷經將近1200天， #中國病毒武漢肺炎 逐步趨緩，指揮中心將解散，防疫回歸常態化",
+    "description" : "中央流行疫情指揮中心預計在27日下午2時舉辦終場記者會，隨著COVID-19將從第五類改類，指揮中心也將解散，防疫回歸常態化。 指揮中心成立於2020年1月20日，因應中國武漢疫情，由時任衛生福利部長陳時中擔任指揮官，成立近1200天。 指揮中心每天下午2時舉行例行記者會，向民眾...",
+    "url" : "https://www.metamuse.net/2023/04/1200.html",
+    "urlToImage" : "https://blogger.googleusercontent.com/img/a/AVvXsEiNy2JjURo0k9DLiY7g1soUp9UMhqDnOf5VK5vx6ok3CBzjx2gS6J1u69LS9dSTVmL5R19aTeGAGsaNXzvHPI6TcfaZNETAxAUCk2gT93iNc-cEcT-Qe9u7dckPz4SHIlnrTiKb5cY53ZkditPYAQCxqSel_XWVrs5MiG55YjnMAtyHO-bH2Q=w1200-h630-p-k-no-nu",
+    "publishedAt" : "2023-04-25T09:42:00Z",
+    "content" : "中央流行疫情指揮中心預計在27日下午2時舉辦終場記者會，隨著COVID-19將從第五類改類，指揮中心也將解散，防疫回歸常態化。指揮中心成立於2020年1月20日，因應中國武漢疫情，由時任衛生福利部長陳時中擔任指揮官，成立近1200天。指揮中心每天下午2時舉行例行記者會，向民眾說明疫情及防疫措施，受到廣大關注。 COVID-19將改類COVID-19本土歷經3波疫情，隨著疫情逐漸趨緩，改類、指揮中… [+110 chars]"
+}
+{
+    "_id" : ObjectId("64510e4da628c124c8b13422"),
+    "source" : {
+        "id" : null,
+        "name" : "Yahoo Entertainment"
+    },
+    "author" : "Newtalk新聞 |張柏源 綜合報導",
+    "title" : "指揮中心將解編！陳時中：拚了命無法救到每一個人 想到心中仍很痛",
+    "description" : "[Newtalk新聞] 中央流行疫情指揮中心今（25）天宣布，鑒於武漢肺炎疾病嚴重度下降，國內疫情持續穩定且處於低點，且國際間亦朝向調降防疫等級，自5月1日起5月1日解編，由衛福部成立跨單位防治聯繫會報持續武漢肺炎整備應變工作。前衛福部長、前中央流行疫情指揮中心指揮官陳時中今天受訪時感嘆，心中有百感交集，沒辦法救到每一個人，想到這些「心中仍很痛。」 陳時中在2020年1月23日起擔任疫情指揮中心指揮官，並在去年7月卸任，之後由衛福部次長王必勝接任指揮官。根據指揮中心統計，2023年3月20日前，武漢肺炎累計至今累…",
+    "url" : "https://tw.news.yahoo.com/%E6%8C%87%E6%8F%AE%E4%B8%AD%E5%BF%83%E5%B0%87%E8%A7%A3%E7%B7%A8-%E9%99%B3%E6%99%82%E4%B8%AD-%E6%8B%9A%E4%BA%86%E5%91%BD%E7%84%A1%E6%B3%95%E6%95%91%E5%88%B0%E6%AF%8F-%E5%80%8B%E4%BA%BA-%E6%83%B3%E5%88%B0%E5%BF%83%E4%B8%AD%E4%BB%8D%E5%BE%88%E7%97%9B-134806894.html",
+    "urlToImage" : "https://media.zenfs.com/zh-tw/newtalk.tw/e8eb135c9445f4b39af78572cce1ad01",
+    "publishedAt" : "2023-04-25T05:48:06Z",
+    "content" : "[Newtalk] 255151\r\n20201237202332010184764584071940425\r\n2020120123227202271820201205131197\r\nNewtalk"
+}
+{
+    "_id" : ObjectId("64510e4da628c124c8b13423"),
+    "source" : {
+        "id" : null,
+        "name" : "Yahoo Entertainment"
+    },
+    "author" : "生活中心／綜合報導",
+    "title" : "新冠5/1起改類降級　實名制家用快篩試劑僅賣到4/30",
+    "description" : "因應新型冠狀病毒（或稱COVID-19、武漢肺炎）病毒流感化、目前全球處置新冠疫情、大幅鬆綁管制的趨勢，中央流行疫情指揮中心今（25）日下午正式宣布，新冠將於5月1日起，由第五類法定傳染病降為第四類，指揮中心也自5月1日起解編。同時因應新冠5月1日改類降級，指揮中心也宣布現有實名制新冠家用快篩試劑，將賣今（25）日4月30日止，5月1日起該機制將退場。指揮中心今（25）日表示，因民眾購買家用抗原快篩試劑實名制的需求降低，且目前自由市場的家用抗原快篩試劑供應充足，家用抗原快篩試劑實名制已完成階段性任務。因此，家用抗…",
+    "url" : "https://tw.news.yahoo.com/%E6%96%B0%E5%86%A05-1%E8%B5%B7%E6%94%B9%E9%A1%9E%E9%99%8D%E7%B4%9A-%E5%AF%A6%E5%90%8D%E5%88%B6%E5%AE%B6%E7%94%A8%E5%BF%AB%E7%AF%A9%E8%A9%A6%E5%8A%91%E5%83%85%E8%B3%A3%E5%88%B04-30-123000042.html",
+    "urlToImage" : "https://media.zenfs.com/ko/taiwanhot.net.tw/edee37112bbeeebf23fffec09a4ba942",
+    "publishedAt" : "2023-04-25T04:30:00Z",
+    "content" : "COVID-19255151512543051\r\n25202343051430\r\n20224COVID-195,000COVID-19690665228\r\n428428202341311,5057,52525143051///\r\n/1\r\n5/1 4/30"
+}
+{
+    "_id" : ObjectId("64510e4da628c124c8b13424"),
+    "source" : {
+        "id" : null,
+        "name" : "Yahoo Entertainment"
+    },
+    "author" : "Newtalk新聞 |張柏源 綜合報導",
+    "title" : "戰狼再踢鐵板！法國外交部召見盧沙野要他解釋 連馬克宏也看不下去",
+    "description" : "[Newtalk新聞] 中共外交戰狼代表人物之一的中國駐法大使盧沙野21日接受LCI電視台專訪時宣稱「依據國際法，這些前蘇聯國家沒有有效地位，因為沒有國際協議以具體化他們的主權國家地位」，引發歐洲政界強烈不滿。法國外交部24日下午召見盧沙野，要求解釋。法國總統馬克宏（Emmanuel Macron）也批評盧沙野，並強調這些國家的疆界「不容侵犯」。 綜合《世界報》（Le Monde）、法國1台（TF1）、法新社等法國媒體報導，馬克宏告訴記者：「我認為，外交官使用那種語言並不得體。」盧沙野也已接到法國外交部召見通知，…",
+    "url" : "https://tw.news.yahoo.com/%E6%88%B0%E7%8B%BC%E5%86%8D%E8%B8%A2%E9%90%B5%E6%9D%BF-%E6%B3%95%E5%9C%8B%E5%A4%96%E4%BA%A4%E9%83%A8%E5%8F%AC%E8%A6%8B%E7%9B%A7%E6%B2%99%E9%87%8E%E8%A6%81%E4%BB%96%E8%A7%A3%E9%87%8B-%E9%80%A3%E9%A6%AC%E5%85%8B%E5%AE%8F%E4%B9%9F%E7%9C%8B%E4%B8%8D%E4%B8%8B%E5%8E%BB-015027309.html",
+    "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/qRhXx4Pfemw8_DxEamVOfg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MjU-/https://media.zenfs.com/ko/newtalk.tw/257b547793ece69c53748c9a7f96ca38",
+    "publishedAt" : "2023-04-24T17:50:27Z",
+    "content" : "[Newtalk] 21LCI24Emmanuel Macron\r\nLe Monde1TF124Catherine ColonnaLuis Vassy3\r\nAntoine BondazAndré Gattolin\r\n14\r\n3\r\n8023\r\nNewtalk"
+}
+{
+    "_id" : ObjectId("64510e4da628c124c8b13425"),
+    "source" : {
+        "id" : null,
+        "name" : "Yahoo Entertainment"
+    },
+    "author" : "周刊王CTWANT |廖梓翔",
+    "title" : "立陶宛正妹初訪武漢　精準預言肺炎「成全球疫情」",
+    "description" : "[周刊王CTWANT] YouTube頻道「不要鬧工作室」近日訪問到立陶宛的珊卓拉，珊卓拉自述自己從小就很喜歡野生動物，11歲時就前往多間動物收容所當志工，也時常拯救流浪的小野貓。15歲時就曾自己聯繫動物園，並且在動物園內負責訓練世界最小的猴子「狨猴」，由此可見其對動物的高度興趣。珊卓拉表...",
+    "url" : "https://tw.news.yahoo.com/%E7%AB%8B%E9%99%B6%E5%AE%9B%E6%AD%A3%E5%A6%B9%E5%88%9D%E8%A8%AA%E6%AD%A6%E6%BC%A2-%E7%B2%BE%E6%BA%96%E9%A0%90%E8%A8%80%E8%82%BA%E7%82%8E-%E6%88%90%E5%85%A8%E7%90%83%E7%96%AB%E6%83%85-052643767.html",
+    "urlToImage" : "https://media.zenfs.com/ko/ctwant_com_582/3e1659567ed0b5122a0b12ebd247eae0",
+    "publishedAt" : "2023-04-21T21:26:43Z",
+    "content" : "[CTWANT] 2018202221879.92313..."
+}
+{
+    "_id" : ObjectId("64510e4da628c124c8b13426"),
+    "source" : {
+        "id" : null,
+        "name" : "Yahoo Entertainment"
+    },
+    "author" : "Newtalk新聞 |謝宜哲 綜合報導",
+    "title" : "評論區翻車了！ 中國批WHO把新冠溯源政治化 網友一面倒挺世衛",
+    "description" : "[Newtalk新聞] 新冠肺炎自從在 2019 年末於中國湖北省武漢市爆發後，就一直持續至今，疫情時間已超過整整三年。新冠病毒的來源問題，一直是最大的難題之一。 世界衛生組織曾表示，想派人前往中國進行調查，但被中國嚴正抗議。 近期中國重申，世界衛生組織別把新冠溯源政治化 ，可評論區卻大翻車。 推特帳號李老師不是你老師今（20）日發文表示，中國國家疾控局副局長沈洪兵於 8 日的例行記者會上，奉勸世界衛生組織有關人士回歸科學和公正的立場，不要主動或被迫成為個別國家把新冠溯源政治化的工具。 李老師不是你老師指出，對於…",
+    "url" : "https://tw.news.yahoo.com/%E8%A9%95%E8%AB%96%E5%8D%80%E7%BF%BB%E8%BB%8A%E4%BA%86-%E4%B8%AD%E5%9C%8B%E6%89%B9who%E6%8A%8A%E6%96%B0%E5%86%A0%E6%BA%AF%E6%BA%90%E6%94%BF%E6%B2%BB%E5%8C%96-%E7%B6%B2%E5%8F%8B-%E9%9D%A2%E5%80%92%E6%8C%BA%E4%B8%96%E8%A1%9B-025824734.html",
+    "urlToImage" : "https://media.zenfs.com/zh-tw/newtalk.tw/662882ecf9d2ac91240a52ea6062d090",
+    "publishedAt" : "2023-04-19T18:58:24Z",
+    "content" : "King Charles56Prince HarryMeghan Markle"
+}
+{
+    "_id" : ObjectId("64510e4da628c124c8b13427"),
+    "source" : {
+        "id" : null,
+        "name" : "Yahoo Entertainment"
+    },
+    "author" : "Newtalk新聞 |張柏源 綜合報導",
+    "title" : "恩恩爸告過失致死聲請再議遭高檢署駁回 侯友宜等人今獲不起訴確定",
+    "description" : "[Newtalk新聞] 新北市中和區男童「恩恩」感染武漢肺炎過世，「恩恩」的爸爸及離職的消防員張津唯控訴新北市消防局急救程序有瑕疵，提告新北市長侯友宜與市府官員過失致死等罪，侯友宜等人獲不起訴，恩恩爸聲請再議。高檢署判定再議無理由，今（19）天駁回，侯友宜等4人獲不起訴確定。 全案起於，新北市中和區2歲男童「恩恩」去年4月染疫逝世，恩恩爸質疑已遵循政府防疫政策請求送醫，因新北市府訂的送醫指引與內政部消防署訂定的消防應變指引不合，要求家屬須先透過衛生單位確定有專責病房可收治病患才能送醫；又新北市消防局與衛生局沒建立…",
+    "url" : "https://tw.news.yahoo.com/%E6%81%A9%E6%81%A9%E7%88%B8%E5%91%8A%E9%81%8E%E5%A4%B1%E8%87%B4%E6%AD%BB%E8%81%B2%E8%AB%8B%E5%86%8D%E8%AD%B0%E9%81%AD%E9%AB%98%E6%AA%A2%E7%BD%B2%E9%A7%81%E5%9B%9E-%E4%BE%AF%E5%8F%8B%E5%AE%9C%E7%AD%89%E4%BA%BA%E4%BB%8A%E7%8D%B2%E4%B8%8D%E8%B5%B7%E8%A8%B4%E7%A2%BA%E5%AE%9A-144118239.html",
+    "urlToImage" : "https://media.zenfs.com/ko/newtalk.tw/9a673c3c512d1dea7c1031f83773d218",
+    "publishedAt" : "2023-04-19T07:02:36Z",
+    "content" : "[NOWnews]TWICETzuyu17IG140M..."
+}
+{
+    "_id" : ObjectId("64510e4da628c124c8b13428"),
+    "source" : {
+        "id" : null,
+        "name" : "Yahoo Entertainment"
+    },
+    "author" : "政治中心／綜合報導",
+    "title" : "新冠改類、疫情指揮中心解編　薛瑞元：預計5月、待政院宣布",
+    "description" : "中央流行疫情指揮中心因應新型冠狀病毒（或稱COVID-19、武漢肺炎）病毒流感化、目前全球處置新冠疫情的趨勢，已大幅鬆綁疫情管制，並鬆綁口罩政策，由民眾自主決定配戴口罩，僅限醫療照護機構、救護車上仍要全程戴口罩。由於日本已宣布5月8日起降級新冠，屆時入境免打3劑疫苗、也不用附陰性證明；美國也將在5月11日結束新冠「緊急狀態」。因此大眾關心台灣對於新冠改類、疫情指揮中心解編的時程規劃。對此，行政院衛福部長薛瑞元今（19）日在立法院衛環委員會備詢時表示，新冠改類、疫情指揮中心解編會同時進行，時間點與原先指揮中心稱的5…",
+    "url" : "https://tw.news.yahoo.com/%E6%96%B0%E5%86%A0%E6%94%B9%E9%A1%9E-%E7%96%AB%E6%83%85%E6%8C%87%E6%8F%AE%E4%B8%AD%E5%BF%83%E8%A7%A3%E7%B7%A8-%E8%96%9B%E7%91%9E%E5%85%83-%E9%A0%90%E8%A8%885%E6%9C%88-%E5%BE%85%E6%94%BF%E9%99%A2%E5%AE%A3%E5%B8%83-070540199.html",
+    "urlToImage" : "https://media.zenfs.com/ko/taiwanhot.net.tw/2bbfba57801fc216421d5acb1d613a43",
+    "publishedAt" : "2023-04-18T23:05:40Z",
+    "content" : "[Newtalk] 202418 18 TVBS TVBS"
+}
+{
+    "_id" : ObjectId("64510e4da628c124c8b13429"),
+    "source" : {
+        "id" : null,
+        "name" : "Yahoo Entertainment"
+    },
+    "author" : "生活中心／綜合報導",
+    "title" : "流感增12例重症、10例未打疫苗　如有呼吸道症狀、發紺戴口罩速就醫",
+    "description" : "中央流行疫情指揮中心因應新型冠狀病毒（或稱COVID-19、武漢肺炎）病毒流感化、目前全球處置新冠疫情的趨勢，已大幅鬆綁疫情管制，並鬆綁口罩政策，由民眾自主決定配戴口罩，僅限醫療照護機構、救護車上仍要全程戴口罩。但新冠疫情前常流行的流感疫情也持續，民眾須注意疫情變化。衛福部疾病管制署今（18）日表示，台灣上週再新增12例流感重症案例，其中10例未打流感疫苗，提醒民眾如有呼吸道症狀、發紺等流感危險徵兆，應戴口罩儘速就醫，掌握治療契機。疾管署今（18）日表示，上週門急診類流感就診人次上升至51,083人次，較前一週上…",
+    "url" : "https://tw.news.yahoo.com/%E6%B5%81%E6%84%9F%E5%A2%9E12%E4%BE%8B%E9%87%8D%E7%97%87-10%E4%BE%8B%E6%9C%AA%E6%89%93%E7%96%AB%E8%8B%97-%E5%A6%82%E6%9C%89%E5%91%BC%E5%90%B8%E9%81%93%E7%97%87%E7%8B%80-%E7%99%BC%E7%B4%BA%E6%88%B4%E5%8F%A3%E7%BD%A9%E9%80%9F%E5%B0%B1%E9%86%AB-140000841.html",
+    "urlToImage" : "https://media.zenfs.com/zh-tw/taiwanhot.net.tw/7716371b308e6bdb0b84d6d14a4436de",
+    "publishedAt" : "2023-04-18T06:00:00Z",
+    "content" : "COVID-19181210\r\n1851,08334AH3N2\r\n202210141790(70AH3N215AH1N11A4B)654490%801715AH3N21AH1N11B88\r\n126AH3N26AH1N1408093454141110\r\n41765\r\nhttps://www.cdc.gov.tw/19220800-001922\r\n1210"
+}
+{
+    "_id" : ObjectId("64510e4da628c124c8b1342a"),
+    "source" : {
+        "id" : null,
+        "name" : "Yahoo Entertainment"
+    },
+    "author" : "Newtalk新聞 |張柏源 綜合報導",
+    "title" : "中國干預武漢肺炎疫情溯源調查信函曝光 美回函「這麼做是沒用的」",
+    "description" : "[Newtalk新聞] 武漢肺炎疫情2019年底自中國爆發至今累積至少造成全球近7億人感染、7百萬人死亡，被視為是病毒源頭的中國卻堅拒承認、甩鍋卸責，還阻撓國際團隊進行病毒溯源。美國聯邦眾議院新型冠狀病毒大流行特別小組委員會（House Select Subcommittee on the Coronavirus Pandemic）公開中國駐美大使館官員的抗議信截圖，揭露中國試圖干預美國18日將舉辦的疫情溯源聽證會。 美眾院新型冠狀病毒大流行特別小組委員會推特官方帳號15日推文指出：「中國駐美大使館試圖干預我們在…",
+    "url" : "https://tw.news.yahoo.com/%E4%B8%AD%E5%9C%8B%E5%B9%B2%E9%A0%90%E6%AD%A6%E6%BC%A2%E8%82%BA%E7%82%8E%E7%96%AB%E6%83%85%E6%BA%AF%E6%BA%90%E8%AA%BF%E6%9F%A5%E4%BF%A1%E5%87%BD%E6%9B%9D%E5%85%89-%E7%BE%8E%E5%9B%9E%E5%87%BD-%E9%80%99%E9%BA%BC%E5%81%9A%E6%98%AF%E6%B2%92%E7%94%A8%E7%9A%84-082749853.html",
+    "urlToImage" : "https://media.zenfs.com/zh-tw/newtalk.tw/0f692f967d1f18a3726a2ad931bd5c8b",
+    "publishedAt" : "2023-04-16T00:27:49Z",
+    "content" : "[Newtalk] 201977House Select Subcommittee on the Coronavirus Pandemic18\r\n15COVID-19Li Xiang14215COVID-192\r\nBrad WenstrupCOVID-19COVID-19\r\nFox News18John RatcliffeDavid Feith\r\nNewtalk15"
+}
+{
+    "_id" : ObjectId("64510e4da628c124c8b1342b"),
+    "source" : {
+        "id" : null,
+        "name" : "Yahoo Entertainment"
+    },
+    "author" : "Newtalk新聞 |張柏源 綜合報導",
+    "title" : "62件「疫苗、防疫指控告發案」北檢查無不法 陳時中：終於還我清白",
+    "description" : "[Newtalk新聞] 武漢肺炎疫情在台灣爆發後，多位民眾和在野黨民代陸續告發蔡英文總統、前衛福部長陳時中等官員涉「3＋11」製造破口、擋疫苗、護航高端、廢弛職務釀災、殺人等總計62案，台北地檢署認定全部查無不法，14日以他字案簽結。陳時中在臉書Po文回應，錯假訊息與病毒同樣危險，這些中傷仍持續在網路流轉，成為難以平復的傷痕。如今終於還給自己和防疫夥伴，一個遲來的清白與公道。 ​陳時中表示，防疫期間，有心人士利用民眾的恐懼心理，製造及散播許多與疫苗採購、防疫政策相關的錯假訊息，不僅對防疫工作帶來嚴峻挑戰，也耗費指…",
+    "url" : "https://tw.news.yahoo.com/62%E4%BB%B6-%E7%96%AB%E8%8B%97-%E9%98%B2%E7%96%AB%E6%8C%87%E6%8E%A7%E5%91%8A%E7%99%BC%E6%A1%88-%E5%8C%97%E6%AA%A2%E6%9F%A5%E7%84%A1%E4%B8%8D%E6%B3%95-%E9%99%B3%E6%99%82%E4%B8%AD-191605232.html",
+    "urlToImage" : "https://media.zenfs.com/ko/newtalk.tw/ee50c3255c8314242d737922bed831de",
+    "publishedAt" : "2023-04-14T11:16:05Z",
+    "content" : "191400400 191 191 191 191 19124370mm25300mm 191300mm370mmPHL-0312300mm PHL-03300mm3"
+}
+{
+    "_id" : ObjectId("64510e4da628c124c8b1342c"),
+    "source" : {
+        "id" : null,
+        "name" : "Yahoo Entertainment"
+    },
+    "author" : "Newtalk新聞 |張柏源 綜合報導",
+    "title" : "歐盟最高外交官：維持台海和平及促使俄羅斯撤軍 攸關歐中恢復信賴",
+    "description" : "[Newtalk新聞] 中國持續加強對台軍事威脅，同時又和侵犯烏克蘭的俄羅斯深化戰略夥伴關係，近日更展開環台軍演，引起國際社會關注。歐洲聯盟（European Union）最高外交官、歐盟外交與安全政策高級代表波瑞爾（Josep Borrell）因確診武漢肺炎取消訪中，他13日發文刊出原訂在中國演講內容，強調北京能否維持台海和平及促使俄軍撤離烏克蘭，是歐盟對中國恢復信任的關鍵。 波瑞爾原訂13至15日與德國外交部長貝爾伯克（Annalena Baerbock）同時出訪中國，並將舉行第12輪歐中高級別戰略對話。但他…",
+    "url" : "https://tw.news.yahoo.com/%E6%AD%90%E7%9B%9F%E6%9C%80%E9%AB%98%E5%A4%96%E4%BA%A4%E5%AE%98-%E7%B6%AD%E6%8C%81%E5%8F%B0%E6%B5%B7%E5%92%8C%E5%B9%B3%E5%8F%8A%E4%BF%83%E4%BD%BF%E4%BF%84%E7%BE%85%E6%96%AF%E6%92%A4%E8%BB%8D-%E6%94%B8%E9%97%9C%E6%AD%90%E4%B8%AD%E6%81%A2%E5%BE%A9%E4%BF%A1%E8%B3%B4-001925543.html",
+    "urlToImage" : "https://media.zenfs.com/ko/newtalk.tw/feb9ca46264fb3a57108b5092d4546f9",
+    "publishedAt" : "2023-04-13T16:19:25Z",
+    "content" : "[Newtalk] European UnionJosep Borrell13\r\n1315Annalena Baerbock12Emmanuel Macron\r\n13111427European Council2020\r\nCOVID-19\r\nNewtalk"
+}
+{
+    "_id" : ObjectId("64510e4da628c124c8b1342d"),
+    "source" : {
+        "id" : null,
+        "name" : "Yahoo Entertainment"
+    },
+    "author" : "Newtalk新聞 |張柏源 綜合報導",
+    "title" : "到底在害怕什麼？ 聯合國官員：中國拒絕加入野生動物防疫調查計畫",
+    "description" : "[Newtalk新聞] 一名聯合國官員向路透社揭露，經過長期協商後，中國仍不同意參加聯合國的野生動物防疫調查計畫，這項計畫旨在調查亞洲傳統市場和其他可能將傳染病從野生動物傳播給人類的高風險設施。而中國不願加入調查計畫可能加劇全球研究人員的挫折感，他們一直敦促北京分享有關武漢肺炎病毒起源的訊息，以免未來出現其他人畜共通或動物傳人的疾病。 聯合國官員透露，相關計畫的科學諮詢委員會共挑選4個境內有許多存在動物風險設施的亞洲國家，包括中國、泰國、越南和寮國，準備進行調查。這項計畫被稱為「安全計畫」（Safety acro…",
+    "url" : "https://tw.news.yahoo.com/%E5%88%B0%E5%BA%95%E5%9C%A8%E5%AE%B3%E6%80%95%E4%BB%80%E9%BA%BC-%E8%81%AF%E5%90%88%E5%9C%8B%E5%AE%98%E5%93%A1-%E4%B8%AD%E5%9C%8B%E6%8B%92%E7%B5%95%E5%8A%A0%E5%85%A5%E9%87%8E%E7%94%9F%E5%8B%95%E7%89%A9%E9%98%B2%E7%96%AB%E8%AA%BF%E6%9F%A5%E8%A8%88%E7%95%AB-231054941.html",
+    "urlToImage" : "https://media.zenfs.com/zh-tw/newtalk.tw/a70b4da3e27e857b98277100d6498820",
+    "publishedAt" : "2023-04-13T15:10:54Z",
+    "content" : "[Newtalk] \r\n4Safety across Asia For the global EnvironmentSAFE\r\nNFGA\r\n201912COVID-19\r\nHumane Society InternationalPeter Li\r\n202020227137SAFE10Sabah\r\n40\r\nNewtalk 10"
+}
+{
+    "_id" : ObjectId("64510e4da628c124c8b1342e"),
+    "source" : {
+        "id" : null,
+        "name" : "Yahoo Entertainment"
+    },
+    "author" : "生活中心／綜合報導",
+    "title" : "上週平均每日新增86例新冠中重症　預計下周公布改類降級",
+    "description" : "中央流行疫情指揮中心因應新型冠狀病毒（或稱COVID-19、武漢肺炎）病毒流感化、未來全球處置新冠疫情的趨勢，已實行「輕症免隔離、免通報」，並預計4月17日起進一步鬆綁口罩令，屆時只有在醫療照護機構、救護車上仍要全程戴口罩，為新冠未來改類降級，回歸正常生活作準備，不過民眾須在自主防疫的原則下注意疫情變化。指揮中心今（13）日表示，上週平均每日新增86例新冠中重症（併發症）本土個案。至於目前本土主流病毒株，仍是Omicron BA.2.75。中央流行疫情指揮中心今（13）日公布國內自3/20新制實施後，上週（4/8…",
+    "url" : "https://tw.news.yahoo.com/%E4%B8%8A%E9%80%B1%E5%B9%B3%E5%9D%87%E6%AF%8F%E6%97%A5%E6%96%B0%E5%A2%9E86%E4%BE%8B%E6%96%B0%E5%86%A0%E4%B8%AD%E9%87%8D%E7%97%87-%E9%A0%90%E8%A8%88%E4%B8%8B%E5%91%A8%E5%85%AC%E5%B8%83%E6%94%B9%E9%A1%9E%E9%99%8D%E7%B4%9A-070700251.html",
+    "urlToImage" : "https://media.zenfs.com/ko/taiwanhot.net.tw/c6de107813ea3716523f228ba9f6eec7",
+    "publishedAt" : "2023-04-12T23:10:53Z",
+    "content" : "COVID-194171386Omicron BA.2.75\r\n133/204/8-4/1386COVID-193/31-4/784173/31-4/71599%6339560\r\n36Omicron2415BA.2.754BA.52BF.72XBBXBB.1.51BQ.1129BA.2.753XBB2XBB.1.5BA.2.75 66XBB15BQ.110 WHOBQ.1BQ.1.1BF.7BA… [+54 chars]"
+}
+{
+    "_id" : ObjectId("64510e4da628c124c8b1342f"),
+    "source" : {
+        "id" : null,
+        "name" : "Yahoo Entertainment"
+    },
+    "author" : "Newtalk新聞 |曾郡秋 綜合報導",
+    "title" : "快訊》上週日增86例本土中重症！羅一鈞：疫況持平穩定",
+    "description" : "[Newtalk新聞] 中央流行疫情指揮中心今(13)日公布國內自3/20新制實施後，上週(4/8-4/13)每日平均新增86例武漢肺炎本土中重症，較前7日每日平均新增84例相當。上週平均每日新增17例死亡，也與再前一週平均數15例相當；至於變異株的部份，指揮中心發言人羅一鈞表示，從春節到清明連假後都是維持BA.2.75為主流株的趨勢，並沒有發現有新的變異株。 指揮中心今公布國內上週(4/8-4/13)每日平均新增86例本土確定病例(併發症)，較前7日(3/31-4/7)之每日平均新增84例持平。上週平均每日新增…",
+    "url" : "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E4%B8%8A%E9%80%B1%E6%97%A5%E5%A2%9E86%E4%BE%8B%E6%9C%AC%E5%9C%9F%E4%B8%AD%E9%87%8D%E7%97%87-%E7%BE%85-%E9%88%9E-%E7%96%AB%E6%B3%81%E6%8C%81%E5%B9%B3%E7%A9%A9%E5%AE%9A-062143099.html",
+    "urlToImage" : "https://media.zenfs.com/ko/newtalk.tw/e73abe73407af442b76a7d9a26c40f82",
+    "publishedAt" : "2023-04-12T22:21:43Z",
+    "content" : "[Newtalk] (13)3/20(4/8-4/13)867841715BA.2.75\r\n(4/8-4/13)86()7(3/31-4/7)8417(3/31-4/7)1599%63%395%60\r\n36Omicron2415BA.2.754BA.52BF.72XBB (XBB.1.5)1BQ.1129BA.2.753XBB (2XBB.1.5)BA.2.75 (66%)XBB(15%)BQ.… [+85 chars]"
+}
+{
+    "_id" : ObjectId("64510e4da628c124c8b13430"),
+    "source" : {
+        "id" : null,
+        "name" : "Yahoo Entertainment"
+    },
+    "author" : "生活中心／綜合報導",
+    "title" : "新冠血清抗體監視疑慮　指揮中心：已善盡主動告知、有受抽樣者退出機制",
+    "description" : "中央流行疫情指揮中心曾於2月20日表示，為常規監測我國新型冠狀病毒（或稱COVID-19、武漢肺炎）血清抗體陽性率變動情形，已請衛生福利部指定「醫療財團法人台灣血液基金會」配合辦理「新冠病毒血清抗體監視系統」作業，血液基金會將針對今（2023）年1-6月期間捐血者之血液留樣檢體隨機抽樣約7,000件，並將無從識別特定捐血人資料與0.5c.c.血液檢體，提供疾管署檢測新冠病毒抗體與分析資料。但近來傳出有學者認為研究行為已違法。對此，指揮中心今（10）日表示，已於今（2023）年2月20日發布新聞稿說明該作業係依據「…",
+    "url" : "https://tw.news.yahoo.com/%E6%96%B0%E5%86%A0%E8%A1%80%E6%B8%85%E6%8A%97%E9%AB%94%E7%9B%A3%E8%A6%96%E7%96%91%E6%85%AE-%E6%8C%87%E6%8F%AE%E4%B8%AD%E5%BF%83-%E5%B7%B2%E5%96%84%E7%9B%A1%E4%B8%BB%E5%8B%95%E5%91%8A%E7%9F%A5-%E6%9C%89%E5%8F%97%E6%8A%BD%E6%A8%A3%E8%80%85%E9%80%80%E5%87%BA%E6%A9%9F%E5%88%B6-070111741.html",
+    "urlToImage" : "https://media.zenfs.com/ko/taiwanhot.net.tw/d5a1e74902639a6c564debc75a107e7a",
+    "publishedAt" : "2023-04-09T23:01:11Z",
+    "content" : "220COVID-1920231-67,0000.5c.c.102023220\r\nCOVID-19IRB2636Opt Out22024\r\n2201-67,0000.5c.c.COVID-19COVID-19\r\n2636N\r\n2219220800-001922\r\n2636"
+}
+{
+    "_id" : ObjectId("64510e4da628c124c8b13431"),
+    "source" : {
+        "id" : "google-news",
+        "name" : "Google News"
+    },
+    "author" : null,
+    "title" : "給你猜？中國專家：武漢華南海鮮市場病毒應源自人類 - 自由時報",
+    "description" : "<ol><li>給你猜？中國專家：武漢華南海鮮市場病毒應源自人類  自由時報\r\n</li><li>武漢華南海鮮市場是新冠源頭？ 大陸曝實驗結果  中時新聞網 Chinatimes.com\r\n</li><li>世衛稱「陸掌握新冠起源關鍵」？ 中疾控下午開記者會回應  聯合新聞網\r\n</li><li>中國公布新冠肺炎溯源調查結果：很可能源自人類  Yahoo奇摩新聞\r\n</li><li>譚德塞指控中國隱瞞新冠病毒實情遭懟回  RFI - 法國國際廣播電台\r\n</li><li>前往 Google 新聞查看完整報導</l…",
+    "url" : "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vbmV3cy5sdG4uY29tLnR3L25ld3Mvd29ybGQvYnJlYWtpbmduZXdzLzQyNjQ3MDfSATtodHRwczovL25ld3MubHRuLmNvbS50dy9hbXAvbmV3cy93b3JsZC9icmVha2luZ25ld3MvNDI2NDcwNw?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+    "urlToImage" : null,
+    "publishedAt" : "2023-04-08T23:51:52Z",
+    "content" : "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+}
+{
+    "_id" : ObjectId("64510e4da628c124c8b13432"),
+    "source" : {
+        "id" : "google-news",
+        "name" : "Google News"
+    },
+    "author" : null,
+    "title" : "大陸籲新冠病毒全球溯源 「不要一直炒作和關注武漢」 - Yahoo奇摩新聞",
+    "description" : "<ol><li>大陸籲新冠病毒全球溯源 「不要一直炒作和關注武漢」  Yahoo奇摩新聞\r\n</li><li>武漢華南海鮮市場是新冠源頭？ 大陸曝實驗結果  中時新聞網 Chinatimes.com\r\n</li><li>大陸專家：武漢「華南市場病毒」應該是源自人類  ETtoday新聞雲\r\n</li><li>世衛稱「陸掌握新冠起源關鍵」？ 中疾控下午開記者會回應  聯合新聞網\r\n</li><li>中國公布新冠肺炎溯源調查結果：很可能源自人類  Yahoo奇摩新聞\r\n</li><li>前往 Google 新聞查看完…",
+    "url" : "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMi6AFodHRwczovL3R3Lm5ld3MueWFob28uY29tLyVFNSVBNCVBNyVFOSU5OSVCOCVFNyVCMSVCMiVFNiU5NiVCMCVFNSU4NiVBMCVFNyU5NyU4NSVFNiVBRiU5MiVFNSU4NSVBOCVFNyU5MCU4MyVFNiVCQSVBRiVFNiVCQSU5MC0lRTQlQjglOEQlRTglQTYlODEtJUU3JTlCJUI0JUU3JTgyJTkyJUU0JUJEJTlDJUU1JTkyJThDJUU5JTk3JTlDJUU2JUIzJUE4JUU2JUFEJUE2JUU2JUJDJUEyLTIyMjQzODY5NC5odG1s0gHwAWh0dHBzOi8vdHcubmV3cy55YWhvby5jb20vYW1waHRtbC8lRTUlQTQlQTclRTklOTklQjglRTclQjElQjIlRTYlOTYlQjAlRTUlODYlQTAlRTclOTclODUlRTYlQUYlOTIlRTUlODUlQTglRTclOTAlODMlRTYlQkElQUYlRTYlQkElOTAtJUU0JUI4JThEJUU4JUE2JTgxLSVFNyU5QiVCNCVFNyU4MiU5MiVFNCVCRCU5QyVFNSU5MiU4QyVFOSU5NyU5QyVFNiVCMyVBOCVFNiVBRCVBNiVFNiVCQyVBMi0yMjI0Mzg2OTQuaHRtbA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+    "urlToImage" : null,
+    "publishedAt" : "2023-04-08T22:24:38Z",
+    "content" : "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+}
+{
+    "_id" : ObjectId("64510e4da628c124c8b13433"),
+    "source" : {
+        "id" : null,
+        "name" : "Yahoo Entertainment"
+    },
+    "author" : "生活中心／綜合報導",
+    "title" : "口罩令再鬆綁　4/17起僅限醫療照護機構、救護車全程戴　搭大眾運具建議戴",
+    "description" : "因應全球針對新型冠狀病毒（或稱COVID-19、武漢肺炎）疫情的管制措施鬆綁，與台灣的本土新冠疫情發展，中央流行疫情指揮中心今（7）日宣布，如疫情持續穩定可控，將自4月17日（週一）起進一步鬆綁口罩令，屆時只有在醫療照護機構、救護車上仍要全程戴口罩，至於搭乘公共運輸交通工具，則改為「建議」戴口罩；室內場所、室內空間，由民眾自主決定戴口罩。指揮中心今（7）日表示，COVID-19國內外疫情逐漸趨緩，清明連假後疫情持續穩定、醫療量能充足，且目前未發現具威脅性之新型變異株；另考量目前國際鬆綁方向一致，絕大多數國家/地區…",
+    "url" : "https://tw.news.yahoo.com/%E5%8F%A3%E7%BD%A9%E4%BB%A4%E5%86%8D%E9%AC%86%E7%B6%81-4-17%E8%B5%B7%E5%83%85%E9%99%90%E9%86%AB%E7%99%82%E7%85%A7%E8%AD%B7%E6%A9%9F%E6%A7%8B-%E6%95%91%E8%AD%B7%E8%BB%8A%E5%85%A8%E7%A8%8B%E6%88%B4-%E6%90%AD%E5%A4%A7%E7%9C%BE%E9%81%8B%E5%85%B7%E5%BB%BA%E8%AD%B0%E6%88%B4-082006454.html",
+    "urlToImage" : "https://media.zenfs.com/ko/taiwanhot.net.tw/351e3a29cb122e02755a8591a5598c37",
+    "publishedAt" : "2023-04-07T00:20:06Z",
+    "content" : "[CTWANT] 12264BMW14152215..."
+}
+{
+    "_id" : ObjectId("64510e4da628c124c8b13434"),
+    "source" : {
+        "id" : null,
+        "name" : "Yahoo Entertainment"
+    },
+    "author" : "Newtalk新聞 |張柏源 綜合報導",
+    "title" : "馬英九稱讚中國防疫 黃暐瀚給不了讚：訪中給了國民黨一個燙手山芋",
+    "description" : "[Newtalk新聞] 武漢肺炎疫情2019年底自中國爆發至今累積至少造成全球近7億人感染、7百萬人死亡，被視為是病毒源頭的中國不斷甩鍋卸責。然而前總統馬英九30日參訪中國武漢市檔案館時卻盛讚中國防疫成果，還稱「是對人類的貢獻」，甚至批評台灣政府給中國帶來困擾，引起輿論譁然。讓馬英九此次訪中蒙上陰影，而資深媒體人黃暐瀚則認為「馬英九給了國民黨一個燙手山芋」。 黃暐瀚在臉書Po文寫道：「馬英九前總統這次在大陸的表現，除了稱讚對岸防疫引發爭議之外，口頭講述『總統』、『民國』、『台灣總統』，並堅持『依據中華民國憲法』論…",
+    "url" : "https://tw.news.yahoo.com/%E9%A6%AC%E8%8B%B1%E4%B9%9D%E7%A8%B1%E8%AE%9A%E4%B8%AD%E5%9C%8B%E9%98%B2%E7%96%AB-%E9%BB%83%E6%9A%90%E7%80%9A%E7%B5%A6%E4%B8%8D%E4%BA%86%E8%AE%9A-%E8%A8%AA%E4%B8%AD%E7%B5%A6%E4%BA%86%E5%9C%8B%E6%B0%91%E9%BB%A8-%E5%80%8B%E7%87%99%E6%89%8B%E5%B1%B1%E8%8A%8B-010634729.html",
+    "urlToImage" : "https://media.zenfs.com/zh-tw/newtalk.tw/7c1eea8e9dde185689c03f397af8e15e",
+    "publishedAt" : "2023-04-06T17:06:34Z",
+    "content" : "[Newtalk] 202496 33010 2202410 10"
+}
+{
+    "_id" : ObjectId("64510e4da628c124c8b13435"),
+    "source" : {
+        "id" : null,
+        "name" : "Yahoo Entertainment"
+    },
+    "author" : "民視新聞網",
+    "title" : "彈頭暴胖20公斤！「瘦臉成肉色氣球」近況曝",
+    "description" : "娛樂中心／曾郁雅報導創作團體「南拳媽媽」成員彈頭（宋健彰）有著極強的歌詞寫作能力，不只曾經為團體做出膾炙人口歌曲〈香草把噗〉，更為「流行天王」周杰倫寫下無數經典作品，也因為過去的創作累積，讓他即使在武漢肺炎疫情期間，2、3年沒有商演工作，也依然可以靠著版稅收入遊山玩水，從彈頭的社群平台可以發現彈頭時常與親友相約出遊，尤其喜歡進行浮潛活動，精采多姿的生活體驗吸引讓不少粉絲相當羨慕，不過近期似乎因為「太疏忽」，導致彈頭的體態「飆破90公斤」，讓他警覺需要好好克制，於是決定與好友打賭，要在2個月內瘦20公斤，如果挑戰成…",
+    "url" : "https://tw.news.yahoo.com/%E5%BD%88%E9%A0%AD%E6%9A%B4%E8%83%9620%E5%85%AC%E6%96%A4-%E7%98%A6%E8%87%89%E6%88%90%E8%82%89%E8%89%B2%E6%B0%A3%E7%90%83-%E8%BF%91%E6%B3%81%E6%9B%9D-022420734.html",
+    "urlToImage" : "https://media.zenfs.com/ko/ftvn.com.tw/06b5cb77ac0152bd3241e53e6d6c8ab7",
+    "publishedAt" : "2023-04-05T18:24:20Z",
+    "content" : "[CTWANT] 4183171819Twins..."
+}
