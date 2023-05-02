@@ -14,7 +14,7 @@ db = auto_to_mysql.connectsql("test")
 
 table = auto_to_mysql.createtable("exam3",db,["ID int AUTO_INCREMENT" , "content varchar(255)", "PRIMARY KEY(ID)"])
 f1 = open ("exam_3.txt","a")
-f2 = open ("exam_3.pickle","a")
+f2 = open ("exam_3_1.pickle","a")
 content1 = driver.find_elements(By.CLASS_NAME, "font-en")
 
 for i in range(len(content1)):
@@ -24,7 +24,8 @@ for i in range(len(content1)):
   a=i+1
   auto_to_mysql.inserttable("exam3",db,[a , content2])
 
-f1,f2.close()
+f1.close()
+f2.close()
 auto_to_mysql.close(db)
 
 
