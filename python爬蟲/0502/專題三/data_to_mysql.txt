@@ -24,5 +24,6 @@ for i in range(len(content1)):
   a=i+1
   auto_to_mysql.inserttable("exam3",db,[a , content2])
 
-f1,f2.close()
+f1.close()
+f2.close()
 auto_to_mysql.close(db)
