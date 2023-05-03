@@ -1,0 +1,31 @@
+【回答】
+import csv
+import json
+
+# 從檔案讀取機場資料
+with open('airports.txt', mode='r') as file:
+    airports_data = [line.strip().split(',') for line in file.readlines()]
+
+# 將機場資料整理成 JSON 格式並寫入檔案 airports.json
+airports_json = [{'Airport': data[0], 'City': data[1], 'Country': data[2]} for data in airports_data]
+with open('airports.json', mode='w') as file:
+    json.dump(airports_json, file, indent=4)
+
+# 將機場資料整理成 CSV 格式並寫入檔案 airports.csv
+with open('airports.csv', mode='w', newline='') as file:
+    writer = csv.writer(file)
+    writer.writerow(['Airport', 'City', 'Country'])
+    writer.writerows(airports_data)
+
+【問題】
+1. John F. Kennedy International Airport (JFK) - New York City, NY
+2. Heathrow Airport (LHR) - London, England
+3. Los Angeles International Airport (LAX) - Los Angeles, CA
+4. Charles de Gaulle Airport (CDG) - Paris, France
+5. O'Hare International Airport (ORD) - Chicago, IL
+6. Frankfurt Airport (FRA) - Frankfurt, Germany
+7. Hong Kong International Airport (HKG) - Hong Kong
+8. Tokyo International Airport (HND) - Tokyo, Japan
+9. Amsterdam Airport Schiphol (AMS) - Amsterdam, Netherlands
+10. Dubai International Airport (DXB) - Dubai, UAE
+這是一份檔案「世界機場清單」裡的資料，請幫我從檔案裡取出資料，以 Python 程式碼，分別整理為 JSON及CSV 格式，並存成檔案
