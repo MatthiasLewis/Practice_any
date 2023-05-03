@@ -9,7 +9,7 @@ response = newsapi.get_everything(q="武漢肺炎",sources=None,sort_by='publish
 myclient = pymongo.MongoClient("mongodb://localhost:27017/")
 mydb = myclient['testing']
 mycol = mydb['news_api']
-with open ("exam_2.json","w",encoding='utf-8') as f:
+with open ("exam_2.json","a",encoding='utf-8') as f:
   for i in range(len(response['articles'])):  
     if "外遇" in response['articles'][i]["title"] or "外遇" in response['articles'][i]["description"]:
       continue                  
