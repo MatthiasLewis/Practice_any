@@ -1,0 +1,15 @@
+import os
+import openai
+
+openai.api_key = os.getenv("OPENAI_API_KEY")
+
+response = openai.Completion.create(
+  model="text-davinci-003",
+  prompt="珍珠奶茶的成分\n\n珍珠奶茶的主要成分包括：\n\n1. 珍珠：通常是由淀粉和水制成的小球形团块。\n\n2. 糖：可以是白糖、冰糖或其他甜味剂。\n\n3. 奶：一般使用牛奶或豆浆。\n\n4. 茶：可以是红茶、乌龙茶或其他茶样。",
+  temperature=0.25,
+  max_tokens=256,
+  top_p=1,
+  best_of=2,
+  frequency_penalty=0.35,
+  presence_penalty=0.27
+)
